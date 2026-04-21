@@ -127,3 +127,6 @@ tests/runner/*
 
 # Ignore jest report
 junit.xml
+
+# Local demo output
+demo-out.svg

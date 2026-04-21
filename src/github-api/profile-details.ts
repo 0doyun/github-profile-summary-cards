@@ -46,7 +46,6 @@ const fetcher = (token: string, variables: any) => {
         user(login: $login) {
             id
             name
-            email
             createdAt
             twitterUsername
             company
